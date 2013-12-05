@@ -1,0 +1,3 @@
+[submodule "SignatureView.monotouch/SignatureDemo"]
+	path = SignatureView.monotouch/SignatureDemo
+	url = git://github.com/jharwig/SignatureDemo
